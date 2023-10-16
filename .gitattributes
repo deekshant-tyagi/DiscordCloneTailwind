@@ -1,4 +1,4 @@
-*.tailwindcss linguist-detectable=true
+*.html linguist-language=tailwindcss
 *.js linguist-detectable=false
 *.csharp linguist-detectable=false 
 *.java linguist-detectable=false  
